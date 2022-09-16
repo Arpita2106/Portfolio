@@ -1,0 +1,165 @@
+
+body{
+  margin: 0px;
+}
+.user-pic {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}
+
+.portfolio{
+  font-family: 'Kalam', cursive;
+  font-weight: bold;
+  padding-left: 80px;
+  padding-top: 15px;
+  font-size: 35px;
+  color: #EBEAEA
+}
+
+.menu{
+  padding-top: 15px;;
+}
+
+.headnav a{
+  font-family: 'Kalam', cursive;
+  padding-right: 40px;
+  color: #EBEAEA;
+}
+.first-div{
+  font-family: 'Kalam', cursive;
+  float: right;
+  padding-left: 70px;
+  padding-top: 80px;
+  padding-right: 80px;
+}
+
+.first-div h4{
+  font-weight: 500;
+}
+
+.first-section {
+  background-color: #1A3C40;
+  height: 100px;
+}
+
+.second-section {
+  color: #1A3C40;
+  background-color: #EDE6DB;
+  display: flex;
+  align-items: center;
+  font-family: 'Kalam', cursive;
+  padding-left: 80px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-bottom: 80px;
+}
+
+.third-section {
+  background-color: #1D5C63;
+  font-family: 'Kalam', cursive;
+  padding-bottom: 80px;
+  padding-right: 80px;
+}
+
+.fourth-section{
+  color: #1A3C40;
+  background-color: #EDE6DB;
+  font-family: 'Kalam', cursive;
+
+}
+
+.fifth-section{
+
+  font-family: 'Kalam', cursive;
+  background-color: #417D7A;
+  color: #EBEAEA;
+  font-size: 0;
+}
+
+.project-description{
+  text-align: center;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.project-description h1,h4{
+  padding-top: 30px;
+}
+
+.first-project{
+  padding-top: 30px;
+}
+
+.first-project p{
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+.second-project{
+  padding-top: 30px;
+}
+
+.second-project p{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 0;
+}
+
+.about-me{
+  float: left;
+  text-align: left;
+  color: #EBEAEA;
+  padding-top: 80px;
+}
+
+.education{
+  text-align: center;
+  font-family: 'Kalam', cursive;
+  padding-left: 80px;
+}
+
+.education h1{
+  font-weight: 600;
+  padding: 30px;
+  color: #EBEAEA;
+}
+
+.College{
+  line-height: 1.85em;
+}
+
+.horizontal-1{
+    padding-right: 80px;
+    background: #333;
+    background-image: linear-gradient(90deg,#ccc,#333,#ccc);
+    height: 1px;
+    margin: 1em 15%;
+    text-align: center;
+}
+
+.Contact{
+  padding: 30px 80px 30px 80px;
+  text-align: center;
+}
+
+.Contact h5{
+  padding: 5px;
+}
+
+.linkedin, .github, .facebook{
+ padding: 5px;
+}
+
+#Projects{
+  font-weight: 600;
+}
+
+.contact-details{
+  font-family: 'Kalam', cursive;
+  color: #1A3C40;
+  background-color: #EBEAEA;
+  padding: 100px 80px 100px 80px;
+  text-align: center;
+}

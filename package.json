@@ -1,0 +1,29 @@
+{
+  "name": "Arpita",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "netlify-lambda": "^2.0.15",
+    "serverless-http": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": "git+https://github.com/Arpita2106/PortfolioArpita.git",
+  "keywords": [],
+  "author": "Arpita2106 <arpitasagar2106@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arpita2106/PortfolioArpita/issues"
+  },
+  "homepage": "https://github.com/Arpita2106/PortfolioArpita#readme"
+}
